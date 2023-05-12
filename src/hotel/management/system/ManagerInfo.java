@@ -24,9 +24,6 @@ public class ManagerInfo extends JFrame {
 	private JLabel lblName;
 	private JLabel lblDepartment;
 
-	/**
-	 * Launch the application.
-	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {

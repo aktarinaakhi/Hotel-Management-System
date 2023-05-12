@@ -22,9 +22,6 @@ public class Department extends JFrame {
 	private JLabel lblNewLabel;
 	private JLabel lblNewLabel_1;
 
-	/**
-	 * Launch the application.
-	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {

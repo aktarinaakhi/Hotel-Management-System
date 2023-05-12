@@ -22,9 +22,7 @@ public class PickUp extends JFrame {
 	private JTable table;
         Choice c1;
 
-	/**
-	 * Launch the application.
-	 */
+
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
